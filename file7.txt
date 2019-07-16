@@ -1,1 +1,5 @@
+
 git conflicts 2
+=======
+hi its a conflicts
+
